@@ -26,4 +26,12 @@ public class Paths {
     public static class Catalog {
         public static final String ServiceBasePackage = "com.turkcell.catalogservice";
     }
+
+    public static class Basket {
+        public static final String ServiceBasePackage = "com.turkcell.basketservice";
+    }
+
+    public static class Order {
+        public static final String ServiceBasePackage = "com.turkcell.orderservice";
+    }
 }
